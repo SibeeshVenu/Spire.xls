@@ -1,0 +1,16 @@
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\bin\Debug\Using SpireXLS.exe.config
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\obj\Debug\Using SpireXLS.csprojResolveAssemblyReference.cache
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\obj\Debug\Using_SpireXLS.Form1.resources
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\obj\Debug\Using_SpireXLS.Properties.Resources.resources
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\obj\Debug\Using SpireXLS.csproj.GenerateResource.Cache
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\bin\Debug\Using SpireXLS.exe
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\bin\Debug\Using SpireXLS.pdb
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\bin\Debug\Spire.Common.dll
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\bin\Debug\Spire.License.dll
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\bin\Debug\Spire.Pdf.dll
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\bin\Debug\Spire.XLS.dll
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\bin\Debug\Spire.Common.xml
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\bin\Debug\Spire.Pdf.xml
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\bin\Debug\Spire.XLS.xml
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\obj\Debug\Using SpireXLS.exe
+D:\Visual Studio\Using SpireXLS\Using SpireXLS\obj\Debug\Using SpireXLS.pdb
